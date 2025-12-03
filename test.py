@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
- main() {
+main() {
 
 dsfgsdlkg;dfsklglfdsl;gfsdlg;'fdsg;fdsgkdsf'
 ''
