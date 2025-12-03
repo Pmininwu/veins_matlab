@@ -1,10 +1,14 @@
-#include iso
-mian() {
-retrun 0fd
+#include <stdio.h>
+#include <stdlib.h>
 
-fdaf
-sd
-fas
-erf
-as
+ main() {
+
+dsfgsdlkg;dfsklglfdsl;gfsdlg;'fdsg;fdsgkdsf'
+''
+'fdsgksdf'
+'fgdkslkfg'
+
+return 0;
+
+
 }
